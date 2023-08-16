@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\bin\Debug\net7.0\LigaDasLegendas.exe
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\bin\Debug\net7.0\LigaDasLegendas.deps.json
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\bin\Debug\net7.0\LigaDasLegendas.runtimeconfig.json
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\bin\Debug\net7.0\LigaDasLegendas.dll
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\bin\Debug\net7.0\LigaDasLegendas.pdb
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\LigaDasLegendas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\LigaDasLegendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\LigaDasLegendas.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\LigaDasLegendas.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\LigaDasLegendas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\LigaDasLegendas.dll
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\refint\LigaDasLegendas.dll
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\LigaDasLegendas.pdb
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\LigaDasLegendas.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\BE-MMORPG\LigaDasLegendas\LigaDasLegendas\obj\Debug\net7.0\ref\LigaDasLegendas.dll
